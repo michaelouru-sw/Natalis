@@ -1,0 +1,16 @@
+{
+  "name": "Natalis",
+  "short_name": "Natalis",
+  "description": "Private period tracker for regular and unpredictable cycles, with Google Calendar sync.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f9f4",
+  "theme_color": "#3d4f2c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
